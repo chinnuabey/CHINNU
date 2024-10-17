@@ -1,1 +1,1 @@
-# CHINNU
+# Simple web app
